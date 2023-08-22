@@ -5,3 +5,11 @@
     box-sizing: border-box;
     font-family: sans-serif;
 }
+body
+{
+    background: dodgerblue;
+    text-align: center;
+    padding-top: 200px;
+    font-size: 9vw;
+    color: #fff;
+}
